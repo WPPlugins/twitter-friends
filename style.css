@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tf_main_box
+{
+padding-top:3px; 
+background-color:#95c4e8; 
+border:0px solid #0066FF; 
+margin:0 auto;
+}
+
+.tf_inner_box
+{
+padding:3px;
+}
+
+.tf_main_table
+{
+padding:0px; 
+margin:0px; 
+background-color:#FFFFFF; 
+border:1px solid #CCCCCC; 
+text-align:left; 
+font-size:.8em;
+}
+
+.tf_header_image
+{
+background-image:url(images/twitter_banner.gif); 
+height:28px; 
+margin:3px;
+}
+
+.tf_user_header
+{
+padding:5px 10px 5px 10px;
+background-color:#FFFFFF;
+}
+
+.tf_user_details
+{
+border-top:1px solid #cccccc;
+border-bottom:1px solid #cccccc;
+width:100%;
+}
+
+.tf_button
+{
+border:1px solid #333333; 
+color:#FFFFFF; 
+padding:3px; 
+background-color:#666666; 
+margin:2px; 
+text-decoration:none;
+}
+
+.tf_followers_header
+{
+color:#333333; 
+padding:5px 0px 0px 10px; 
+text-align:left; 
+font-size:.8em; 
+font-weight:bold;
+}
+
+.tf_follower_box
+{
+clear:left; 
+padding:5px; 
+margin:5px; 
+text-align:left; 
+font-size:.8em; 
+background-color:#FFFFFF;
+}
+
+.tf_link_love
+{
+font-size:.7em; 
+text-align:right; 
+min-height:20px; 
+padding-right:10px;
+padding-bottom:5px;
+}
+
+.tf_link_love a
+{
+color:#000066;
+}
